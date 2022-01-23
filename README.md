@@ -1,6 +1,13 @@
 # AngularAdvancedTest
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+* Branchs
+  * master
+    * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1. 
+    * It doesn't work running neither node 16, 17
+    * To FIX it!!
+  * main
+    * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+    *  It works
 
 ## Development server
 
